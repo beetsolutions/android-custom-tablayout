@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="home_label">Home</string>
+    <string name="map_label">Map</string>
+</resources>
